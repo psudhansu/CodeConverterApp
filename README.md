@@ -6,12 +6,12 @@
 CodeConverter App is a web-based application that allows users to convert code written in one programming language into another, while also providing debugging and time complexity analysis.
 
 ## TechStack
-Java
-Spring Boot
-REST API
-HTML
-CSS
-JavaScript
+- Java
+- Spring Boot
+- REST API
+- HTML
+- CSS
+- JavaScript
 
 ## Features
 
