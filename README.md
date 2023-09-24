@@ -1,5 +1,8 @@
 <h1 align="center">Code Converter</h1>
 
+<p align="center">
+   <img src="https://github.com/psudhansu/CodeConverterApp/assets/119405182/c3dbcf56-afdd-495f-86c0-66252d5f7d9c)" alt="Description of the image" style="display: block; margin: 0 auto;">
+</p>
 
 ## Introduction
 
